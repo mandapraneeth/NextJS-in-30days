@@ -1,0 +1,5 @@
+creating nextJS 
+> npx create-next-app hello-world
+> cd hello-world
+> npm run dev
+
