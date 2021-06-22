@@ -1,5 +1,21 @@
-creating nextJS 
+//creating nextJS
 > npx create-next-app hello-world
 > cd hello-world
 > npm run dev
+//////////////////////////
 
+//create a new repository
+git init
+git add .
+git commit -m "first commit"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git remote add origin https://github.com/mandapraneeth/NextJS-in-30days.git
+git push -u origin master
+
+//next all time
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/mandapraneeth/NextJS-in-30days.git
+git push -u origin master
