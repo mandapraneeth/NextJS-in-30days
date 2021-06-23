@@ -1,21 +1,22 @@
-//creating nextJS
-> npx create-next-app hello-world
-> cd hello-world
-> npm run dev
-//////////////////////////
-
-//create a new repository
-git init
-git add .
-git commit -m "first commit"
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
-git remote add origin https://github.com/mandapraneeth/NextJS-in-30days.git
-git push -u origin master
-
-//next all time
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/mandapraneeth/NextJS-in-30days.git
-git push -u origin master
+//Routing
+  //Routing in a React app
+  >Install a third party package
+  >routes.js file to configure the routes
+  >For each route,create a component file,
+  export the component,import it in routes.js 
+  and configure the new route with a path propery
+  
+  //Routing in a Next.js app
+  >file-system based routing mechanism
+  >when a file is added to the pages folder in a project,
+   it automatically becomes available as a route
+  >By mixing ang matching file names with nested folder structure,
+  it is a possible to pretty much define the most common routing patterns
+  
+  //Routing in a Next.js app
+  >Route with Pages
+  >Nested routes
+  >Dynamic routes
+  >Catch-all routes
+  >Navigate from the UI
+  >Programmatically navigate b/w Pages
