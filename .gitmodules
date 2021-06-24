@@ -1,0 +1,3 @@
+[submodule "next-nested-routing"]
+	path = next-nested-routing
+	url = https://github.com/mandapraneeth/NextJS-in-30days.git
