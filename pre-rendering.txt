@@ -1,0 +1,12 @@
+Pre-rendering & Data Fetching Intro
+What and why of per-rendering 
+Types of pre-rendering 
+1.Static Generation 
+ -without data
+-with data
+-Incremental Static Generation 
+-dynamic parameters when fetching data
+2.Server side Rendering
+-data fetching
+Client-side data fetching 
+Combining ore-rendering with client-side data fetching
